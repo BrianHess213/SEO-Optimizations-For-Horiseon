@@ -4,7 +4,7 @@ Optimizing the accessibility of Horiseon’s website. To rank better in search e
 
 https://brianhess213.github.io/SEO-Optimizations-For-Horiseon/
 
-![](./Develop/assets/images/Website-Screenshot-1.png "Top of the website")
+![](./assets/images/Website-Screenshot-1.png "Top of the website")
 
 
 ## Getting Started
